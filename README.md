@@ -19,7 +19,7 @@ Implementasikan sebuah program untuk menyelesaikan permasalahan "Largest Monoton
 ### Materi 3 - Traversal
 Jika sebuah bidak kuda diletakkan pada sebarang kotak untuk kemudian melakukan perjalanan (dengan cara pergerakan kuda) mengunjungi ke semua (8 x 8) kotak papan catur.
 
-<img src="https://github.com/afsulthon/FP_TG_D14/assets/107914177/1fbe757f-009d-489a-aebf-fc8d42fb0591" width="50%" style="display: block; margin: auto;">
+<img src="https://github.com/afsulthon/FP_TG_D14/assets/107914177/1fbe757f-009d-489a-aebf-fc8d42fb0591" width="40%">
 
 Jika diinginkan situasi bahwa kuda tersebut dapat:
 1. Mengakhiri perjalanan pada attacking square (closed tour).
@@ -27,4 +27,4 @@ Jika diinginkan situasi bahwa kuda tersebut dapat:
 
 Maka aplikasikan algoritma untuk menyelesaikan masalah di atas ke dalam sebuah program dengan menunjukkan rute perjalanan seperti gambar di bawah!
 
-<img src="https://github.com/afsulthon/FP_TG_D14/assets/107914177/037e46c4-70bc-40f5-85c9-38332410a63d" width="50%" style="display: block; margin: auto;">
+<img src="https://github.com/afsulthon/FP_TG_D14/assets/107914177/037e46c4-70bc-40f5-85c9-38332410a63d" width="40%">
